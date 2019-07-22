@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/protocol2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/protocol2"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:background="@drawable/item_square"/>
+
+    <include layout="@layout/layout_frame"/>
+    <org.wangguangjie.groupkeymanagement.view.NegotiationDeployView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

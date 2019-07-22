@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroupKeyManagement</string>
+    <string name="protocol1">中心化的群密钥分发协议</string>
+    <string name="protocol2">分布式的群密钥协商协议</string>
+    <string name="msg1">请选择协议</string>
+    <string name="title">基于物联网环境下的群密钥管理协议模拟</string>
+    <string name="dialog_hint">部署节点的数量</string>
+    <string name="ok">确认</string>
+    <string name="experiment_result_title">能量消耗统计</string>
+    <string name="veltri">Veltri</string>
+    <string name="hong">Hong</string>
+    <string name="porambage">Porambage</string>
+    <string name="our_scheme">Our scheme</string>
+    <string name="kim">Kim</string>
+    <string name="lee">Lee</string>
+</resources>
